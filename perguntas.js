@@ -1,4 +1,3 @@
-
 criaCartao (
     'Biologia', 'O que é um gene?', 'Uma unidade de herança que codifica características em um organismo.')
 
