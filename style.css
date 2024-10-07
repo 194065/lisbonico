@@ -1,0 +1,11 @@
+:root{
+    --fundo:#8B0000;
+    --cor-verso:#FA8072;
+    --destaque: #FF0000;
+    --preto: #000000;
+    --branco: #fffafa;
+}
+
+body{
+    background-color: var(--fundo);
+}
