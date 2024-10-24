@@ -122,4 +122,5 @@ criaCartao (
 criaCartao (
     'Empreendedorismo',
      'o que é lucro?',
-     'Lucro é o valor que sobrta após deduzir tofdos os custos e despesas das receitas de um negócio'
+     'Lucro é o valor que sobrta após deduzir tofdos os custos e despesas das receitas de um negócio.'
+)
