@@ -118,3 +118,8 @@ criaCartao (
      'O que é uma reação de oxirredução?',
      'Uma reação que envolve a transferência de elétrons entre reagentes, com um sendo oxidado e outro sendo reduzido.'
 )
+
+criaCartao (
+    'Empreendedorismo',
+     'o que é lucro?',
+     'Lucro é o valor que sobrta após deduzir tofdos os custos e despesas das receitas de um negócio'
