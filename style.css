@@ -30,4 +30,22 @@ footer{
 .cartao{
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
+    height: 20rem;
+    margin: 1rem;
+}
+
+.conteudo-cartao{
+    background-color: var(--preto);
+    height: 100%;
+    color: var(--branco);
+    text-align: center;
+}
+
+.conteudo-cartao h3{
+    position: absolute;
+    border: 1px solid var(--destaque);
+    color: var(--destaque);
+    margin: 0.6rem;
+    padding: o.6rem;
+    font: 1.2vw;
 }
