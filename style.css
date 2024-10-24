@@ -63,7 +63,7 @@ footer{
     transform: rotateY(180deg);
 }
 
-pergunta-cartao, resposta{
+pergunta-cartao, resposta-cartao{
     position: absolute;
     height: 100%;
     width: 100%;
