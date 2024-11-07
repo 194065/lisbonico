@@ -20,14 +20,14 @@ header{
 }
 
 header a {
-    color: var(--preto);
+    color: var(--branco);
 }
 
 
 footer{
     position: absolute;
     bottom: 0;
-    background-color: var(--preto);
+    background-color: var(--branco);
     color: var(--branco);
     width: 100%;
     text-align: center;
