@@ -28,5 +28,5 @@ else{
     
     resposta.style.desplay = 'none'
 
-}
+  }
 }
