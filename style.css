@@ -86,7 +86,7 @@ footer{
 
 }
 
-;.resposta-cartao{
+.resposta-cartao{
     transform: rotateY(180deg);
     background-color: var(--cor-verso);
     color: var(--destaque);
