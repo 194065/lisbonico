@@ -23,6 +23,6 @@ function mostraResposta (card) {
 }
 else{
     
-    resposta.style.desplay = 'none'
+    resposta.style.display = 'none'
   }
 }
